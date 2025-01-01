@@ -28,6 +28,7 @@ I analyzed Berlin's **demographics** and proposed **two participation scenarios*
 
 #### Formula:
 **180,000/337,000 ~ 11%**
+
 ---
 
 ## 📉 Scenario 2: Larger Participation Group
