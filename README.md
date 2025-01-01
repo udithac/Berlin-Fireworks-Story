@@ -6,7 +6,7 @@
 This repository explores how Berlin experienced **5 hours of continuous fireworks celebrations** (8:00 PM till 1:00 AM) on **New Year's Eve 2025**. As a **data scientist**, curiosity sparked an analysis of how such an event could deliver a **seamless, continuous sound effect** for hours. 
 
 ## 🔍 Data-Driven Approach
-We analyzed Berlin's **demographics** and proposed **two participation scenarios** to explain the observed phenomenon using data-driven storytelling.
+I analyzed Berlin's **demographics** and proposed **two participation scenarios** to explain the observed phenomenon using data-driven storytelling.
 
 ---
 
