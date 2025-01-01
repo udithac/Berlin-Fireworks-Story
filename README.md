@@ -27,7 +27,7 @@ I analyzed Berlin's **demographics** and proposed **two participation scenarios*
 - **Minimum participation required:** Only **11% participation** sustains the effect.
 
 #### Formula:
-180,000/337,000 ~ 11\%
+**180,000/337,000 ~ 11%**
 ---
 
 ## 📉 Scenario 2: Larger Participation Group
@@ -39,7 +39,7 @@ I analyzed Berlin's **demographics** and proposed **two participation scenarios*
 - **Minimum participation required:** Only **17.5% participation** sustains the effect.
 
 #### Formula:
-180,000/1,000,000 ~ 17.5%
+**180,000/1,000,000 ~ 17.5%**
 
 ---
 
